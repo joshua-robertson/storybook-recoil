@@ -54,11 +54,16 @@
     "dedent": "^0.7.0",
     "prettier": "^2.3.1",
     "prop-types": "^15.7.2",
+    "ramda": "^0.27.1",
     "react": "^17.0.1",
+    "react-bootstrap": "^1.6.1",
     "react-dom": "^17.0.1",
+    "recoil": "^0.3.1",
     "rimraf": "^3.0.2",
     "typescript": "^4.2.4",
-    "zx": "^1.14.1"
+    "zx": "^1.14.1",
+    "@types/ramda": "^0.27.44",
+    "@types/react-bootstrap": "^0.32.26"
   },
   "peerDependencies": {
     "@storybook/addons": "^6.2.9",
